@@ -1,3 +1,4 @@
+
 🎟️ Seat Reservation System
 
 System do rezerwacji miejsc i sprzedaży biletów na wydarzenia (koncerty, mecze, spektakle). Backend napisany w Javie ze Spring Bootem, oparty na relacyjnej bazie PostgreSQL.
@@ -30,7 +31,7 @@ Automatyczne migracje: Flyway wykonuje skrypty SQL przy starcie aplikacji, dbaj�
 
 ## 🗄️ Schemat bazy danych (ERD)
 
-![Schemat bazy danych](docs/images/database-erd.png)
+<img width="1518" height="2704" alt="seat_reservation_sytem@localhost" src="https://github.com/user-attachments/assets/2a1f7d97-1f5e-4fef-81ed-6b4c7a0227c0" />
 
 🚀 Jak odpalić lokalnie
 
