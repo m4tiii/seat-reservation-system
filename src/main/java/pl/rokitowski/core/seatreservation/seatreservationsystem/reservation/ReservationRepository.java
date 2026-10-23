@@ -9,5 +9,5 @@ import java.util.List;
 public interface ReservationRepository extends JpaRepository<Reservation, Long> {
     List<Reservation> findAllByUserId(Long userId);
 
-    LisT<Reservation> findAllByGuestEmailIgnoreCase(String guestEmail);
+    List<Reservation> findAllByGuestEmailIgnoreCase(String guestEmail);
 }
