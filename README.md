@@ -28,6 +28,10 @@ Ochrona przed podwójną rezerwacją: Unikalny indeks na parze (event_id, seat_i
 
 Automatyczne migracje: Flyway wykonuje skrypty SQL przy starcie aplikacji, dbając o wersjonowanie schematu bazy.
 
+## 🗄️ Schemat bazy danych (ERD)
+
+![Schemat bazy danych](docs/images/database-erd.png)
+
 🚀 Jak odpalić lokalnie
 
 1. Wymagania
