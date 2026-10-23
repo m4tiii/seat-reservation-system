@@ -10,5 +10,6 @@ spring:
   flyway:
     enabled: true
     baseline-on-migrate: true
-    baseline-version: 1
-
+    schemas: public
+    default-schema: public
+    locations: classpath:db/migration
